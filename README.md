@@ -140,7 +140,7 @@ This guide explains the process of deploying on-premises Active Directory using 
 
 <h2>Join Client-1 to the Domain</h2>
 <p>
-<img src="https://i.imgur.com/Jyw1QM0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="781" alt="screenshot3 - Copy" src="https://github.com/user-attachments/assets/2076d5ff-c70f-49cf-86b9-5fc14c498e16" />
 </p>
 <p>
 1. Go to the Microsoft Azure Portal
