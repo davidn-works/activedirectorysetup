@@ -30,7 +30,7 @@ This guide explains the process of deploying on-premises Active Directory using 
 <h2>Prepare Azure Resources</h2>
 
 <p>
-<img src="https://i.imgur.com/8H3ABIK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="760" alt="screenshot2" src="https://github.com/user-attachments/assets/ea441d40-0b9f-4690-b763-a604dfdc8649" />
 </p>
 <p>
 1. Establish a Resource Group: Begin by setting up a new Resource Group for organizing your Azure components. Assign a suitable name, for example, "AD-Lab".
